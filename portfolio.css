@@ -7,16 +7,18 @@
 }
 .header1{
      text-align: center;
-     color:  yellow;
+     color:whitesmoke;
      font-size: xx-large;
 }
 
 .welcomediv{
     flex-direction: column;
-    color: yellow;
+    color:whitesmoke;
     text-align: center;
     font-size: xx-large;
 }
 .textdiv{
-    color:yellow; ;
+    color:whitesmoke;
+    flex-wrap: wrap;
+    font-size: x-large;
 }
