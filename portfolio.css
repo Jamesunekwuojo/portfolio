@@ -1,0 +1,16 @@
+#myimage{
+    border-radius: 100%;
+    float: center;
+}
+.background{
+    background-image: url(./pexels-pixabay-36717.jpg);
+}
+.header1{
+     text-align: center;
+     color: blue;
+}
+.welcomediv{
+    text-align: center;
+    color: blue;
+    font-size: x-large;
+}
