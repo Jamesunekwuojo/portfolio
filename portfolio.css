@@ -3,14 +3,20 @@
     float: center;
 }
 .background{
-    background-image: url(./pexels-pixabay-36717.jpg);
+    background-image: url(./pexels-pixabay-268533.jpg);
 }
 .header1{
      text-align: center;
-     color: blue;
+     color:  yellow;
+     font-size: xx-large;
 }
+
 .welcomediv{
+    flex-direction: column;
+    color: yellow;
     text-align: center;
-    color: blue;
-    font-size: x-large;
+    font-size: xx-large;
+}
+.textdiv{
+    color:yellow; ;
 }
