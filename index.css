@@ -3,7 +3,7 @@
     float: center;
 }
 .background{
-    background-image: url(./pexels-pixabay-268533.jpg);
+    background-image:url(./portfoliobackground.jpg);
     
 }
 .header1{
@@ -19,7 +19,38 @@
     font-size: xx-large;
 }
 .textdiv{
-    color:whitesmoke;
+    color:rgba(245, 245, 245, 0.925);
     flex-wrap: wrap;
     font-size: x-large;
+    text-align: center;
+}
+.mainlist{
+    top: 0;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    color: rgb(9, 63, 45);
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: x-large;
+    font-style: italic;
+}
+.navlist{
+    top: 0;
+    left: 0;
+    left: 0;
+    width: 100%;
+    background-color: antiquewhite;
+ 
+    
+}
+#homebutton{
+    cursor: pointer;
+    padding: 4px;
+    font-size: large;
+}
+.bar1{
+    background-color: rgba(255, 255, 0, 0.973);
+    
 }

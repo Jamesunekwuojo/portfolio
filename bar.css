@@ -1,0 +1,22 @@
+.mainbody{
+    justify-content: center;
+    height: 50vh;
+    background-color: aqua;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.textbody{
+    text-align: center;
+    font-size: large;
+}
+.mainhead{
+    text-align: center;
+    font-style: italic;
+}
+.homebutton{
+    font-size: large;
+    padding: 4px;
+    align-items: center;
+    cursor:pointer;
+    }
