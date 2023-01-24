@@ -9,6 +9,8 @@
 .textbody{
     text-align: center;
     font-size: large;
+    padding-left: 20px;
+    
 }
 .mainhead{
     text-align: center;
@@ -19,4 +21,7 @@
     padding: 4px;
     align-items: center;
     cursor:pointer;
+    }
+    #goalquote{
+        float:left;
     }
