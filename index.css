@@ -4,6 +4,7 @@
 }
 .background{
     background-image:url(./portfoliobackground.jpg);
+    width: auto;
     
 }
 .header1{
@@ -49,4 +50,24 @@
     cursor: pointer;
     padding: 4px;
     font-size: large;
+}
+.cardsection{
+    height: 50vh;
+    background-color:rgb(178, 178, 224);
+    align-content: center;
+    justify-content: center;
+   
+}
+.maindiv{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    margin-left:auto;
+    
+    background-color:whitesmoke;
+    font-size: large;
+    padding: 2rem;
+    
+
 }
