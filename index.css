@@ -50,24 +50,30 @@
     cursor: pointer;
     padding: 4px;
     font-size: large;
+    border-radius: 2rem;
 }
 .cardsection{
+    display: flex;
+    flex-direction: column;
     height: 50vh;
-    background-color:rgb(178, 178, 224);
-    align-content: center;
+    background-color:rgba(112, 180, 163, 0.671);
+    align-items: center;
     justify-content: center;
+    
    
 }
 .maindiv{
     display: flex;
     flex-direction: column;
-    
-    align-items: center;
-    margin-left:auto;
-    
-    background-color:whitesmoke;
+    background-color:rgb(10, 85, 85);
     font-size: large;
-    padding: 2rem;
-    
+    align-items: center;
+    width: 300px;
+    height: 300px; 
 
+}
+#buttonid{
+    cursor: pointer;
+    border-radius: 10px; ;
+    font-size: x-large;
 }
