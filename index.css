@@ -52,13 +52,13 @@
     font-size: large;
     border-radius: 2rem;
 }
-.cardsection{
+.boxsection{
     display: flex;
     flex-direction: column;
     height: 50vh;
     background-color:rgba(112, 180, 163, 0.671);
-    align-items: center;
-    justify-content: center;
+    
+    
     
    
 }
@@ -69,7 +69,13 @@
     font-size: large;
     align-items: center;
     width: 300px;
-    height: 300px; 
+    height: 300px;
+    justify-content: left;
+    align-content:center ; 
+    border: 20px;
+    margin: 30px;
+    
+    
 
 }
 #buttonid{
@@ -77,3 +83,18 @@
     border-radius: 10px; ;
     font-size: x-large;
 }
+.converterdiv{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(10, 85, 85);
+    justify-content: right;
+    
+}
+.formdiv{
+    padding: 10px;
+   
+}
+
+

@@ -1,0 +1,23 @@
+.tableborder{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 90px;
+    margin: 0;
+    font-style: italic;
+}
+#header4{
+    text-align: center;
+}
+
+    
+
+html,body{
+    padding: 6px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.background{
+    background-color: rgb(133, 128, 228);
+    background: linear-gradient(to bottom rgb(181, 197, 191) );
+
+}
