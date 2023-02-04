@@ -1,7 +1,7 @@
-.container {
-    width: 50%;
+.converterdiv {
+    width: 250px;
     border-radius: 5px;
-    background-color: #c4e2c6;
+    background-color: #6d6397;
     padding: 20px;
     margin: auto;
     align-items: center;
@@ -11,14 +11,14 @@
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(136, 146, 153);
     border-radius: 4px;
     box-sizing: border-box;
   }
   
   input[type="submit"] {
     width: 100%;
-    background-color: #0a4d0e;
+    background-color: #34116b;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -28,5 +28,8 @@
   }
   
   input[type="submit"]:hover {
-    background-color: #0a4d0e;
+    background-color: #756eb6;
+  }
+  .background{
+    background: linear-gradient(to bottom, #756eb6, #756eb6)
   }
