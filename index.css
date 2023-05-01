@@ -112,6 +112,55 @@
     height: 300px;
     padding: 10px;
 }
+div .container{
+    width: 400px;
+    height: 400px;
+}
+.divs{
+
+    padding: 5px;
+    margin-right: 5px;
+    border: 1px solid black;
+    flex: wrap;
+    box-sizing: border-box;
+    
+
+
+}
+.container{
+    background-color: antiquewhite;
+    width:100% ;
+    margin-top: 5px;
+    margin-left: 0;
+    height: 50vh;
+    background: linear-gradient(to bottom,  #279fd3af, #dbfd43af);
+}
+.divs{
+    width: 25%;
+    height: 70%;
+    padding: 40px;
+    margin: 5px;
+    margin-top: 5px;
+    position: relative;
+    box-sizing: border-box;
+    float: left;
+    border-radius: 10px;
+    align-items: center;
+}
+#div1{
+    background-color:rgba(219, 213, 214, 0.884);
+    background: linear-gradient(to bottom,  #279fd3af, #dbfd43af); 
+}
+#div2{
+    background-color: rgba(219, 213, 214, 0.884); 
+    background: linear-gradient(to bottom,  #279fd3af, #dbfd43af);
+}
+a:hover, a:active {
+    background-color: rgb(228, 225, 217);
+    color: darkorange;
+
+}
+
 
 
 
