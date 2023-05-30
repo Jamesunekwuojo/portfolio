@@ -1,0 +1,27 @@
+.boxcontainer{
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(to bottom, #0000ff,    );
+    height: 100vh
+}
+.box{
+    width: 25vh;
+    height: 50vh;
+    background-color: #339fad;
+    margin: 10px;
+}
+.navdiv{
+    background-color: white;
+    display: flex;
+    flex: row;
+    justify-content: center;
+}
+.paragraph{
+    border: 1px solid rgb(115, 99, 236);
+    margin:10px ;
+    border-radius: 15px;
+    background-color: #0000ff;
+    font-size: 20px;
+    padding: 5px;
+}
+ 
