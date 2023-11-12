@@ -2,6 +2,8 @@
 body{
     margin: 0;
     padding: 0;
+     background: linear-gradient(to bottom,#faebd7, #0000ff  );
+
 }
 .navdiv{
     background-color: rgb(80, 29, 173);
@@ -21,8 +23,11 @@ body{
     width: 100%;
     height: 150vh;
     justify-content: center;
-    background: linear-gradient(to bottom,#faebd7, #0000ff  );
+   
     
+}
+*{
+    box-sizing: border-box;
 }
 .formbox{
     display: flex;
@@ -62,8 +67,9 @@ body{
 }
 input{
     width: 80%;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     padding: 2px;
+
 }
 
 
@@ -137,9 +143,8 @@ input{
     top: 10vh;
 
 }
-*{
-    box-sizing: border-box;
-}
+
+
 
 @media screen and (min-width:920px) {
     .boxcontainer{

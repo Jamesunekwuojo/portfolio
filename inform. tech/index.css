@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(49, 13, 150)
+    
+
+}
+.imagediv{
+    justify-content: center;
+    position: absolute;
+    left: 40%;
+    
+}
+img{
+    margin-left: 30px;
+}
+h3{
+    color: aliceblue;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#paragraph1{
+    color: aliceblue;
+    font-size: larger;
+    margin-left: 60px ;
+
+}
+#paragraph2{
+    color: aliceblue;
+}
+.textdiv{
+    position: absolute;
+    left: 30%;
+    top: 60%;
+    color: aliceblue;
+}
+#paragraph3{
+    color: darkgreen;
+    font-size: x-large;
+    font-style: normal;
+    font-variant: small-caps;
+}
+#paragraph4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
